@@ -61,7 +61,7 @@ html,body{ overscroll-behavior-y:none; overflow-x:hidden; }
 .chips>.chip.action{ display:none !important; }      /* LINK button */
 
 /* QR & exit */
-#qrCanvas{ width:88px !important; height:88px !important; display:block; }
+#qrCanvas{ width:75px !important; height:75px !important; display:block; }
 #exitBtn.chip{ width:28px; height:28px; min-width:28px; padding:0; border-radius:9px; display:flex; align-items:center; justify-content:center; font-size:15px; }
 
 /* Composer input size so iOS không zoom và không đẩy nút */
